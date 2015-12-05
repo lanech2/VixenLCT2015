@@ -1,0 +1,1896 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimedSequenceData version="2" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
+  <ModuleInstanceId xmlns="">7ae6220a-48fe-47ba-b71b-02881ef37d30</ModuleInstanceId>
+  <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
+  <Length xmlns="">PT4M3.748S</Length>
+  <Version xmlns="">0</Version>
+  <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
+      <ModuleInstanceId>d863a760-160a-4ae2-a68a-51f9232b8f3b</ModuleInstanceId>
+      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
+      <d2p1:FilePath>C:\Users\Chris\Documents\Vixen 3 2015 LCT\Media\09 Track 9.mp3</d2p1:FilePath>
+      <d2p1:RelativeAudioPath>..\..\Vixen 3 2015 LCT\Media\09 Track 9.mp3</d2p1:RelativeAudioPath>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>7f9595ae-7a67-42c8-8fe1-91286724d895</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>a2061d78-685d-490c-8453-cea078fd8093</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>b8701132-3fba-4818-91c5-188c845088c4</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.5571714523787517</d6p1:_x>
+              <d6p1:_y>9.1143429047575033</d6p1:_y>
+              <d6p1:_z>1.5190571507929174</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>3.6731639639442681</d6p1:_x>
+              <d6p1:_y>2.071786635086049</d6p1:_y>
+              <d6p1:_z>15.535531014382794</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">50.1138321427456</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">70.195457725630249</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>7882e76d-e096-4e77-a1aa-67cb465c556c</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>3.6731639639442681</d6p1:_x>
+              <d6p1:_y>2.071786635086049</d6p1:_y>
+              <d6p1:_z>15.535531014382794</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.5571714523787517</d6p1:_x>
+              <d6p1:_y>9.1143429047575033</d6p1:_y>
+              <d6p1:_z>1.5190571507929174</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">70.195457725630249</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">69.667943703075011</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>59835a70-47a3-4713-8845-21cbe3ef4421</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>e015a7c0-4c9c-4d4b-8a29-3833488b5fd4</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.5571714523787517</d6p1:_x>
+              <d6p1:_y>9.1143429047575033</d6p1:_y>
+              <d6p1:_z>1.5190571507929174</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>3.6731639639442681</d6p1:_x>
+              <d6p1:_y>2.071786635086049</d6p1:_y>
+              <d6p1:_z>15.535531014382794</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">50.1138321427456</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">70.195457725630249</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>0a0876ce-09f5-4bb5-9b56-06d6055fc763</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>3a32081d-2fe7-4c6a-b9c4-6a6e5b4a46c6</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>cce8373d-fcb1-4566-8d4e-8812dc76b17a</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.3393782383419689</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.66839378238341973</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.17616580310880828</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.82383419689119175</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>00566c1e-0a9a-456d-98d8-104b402b6ab0</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.5571714523787517</d6p1:_x>
+              <d6p1:_y>9.1143429047575033</d6p1:_y>
+              <d6p1:_z>1.5190571507929174</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>e169e3d2-9d25-49f2-97fa-68e5cf61998a</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>41.24</d6p1:_x>
+              <d6p1:_y>21.26</d6p1:_y>
+              <d6p1:_z>1.93</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>41.24</d6p1:_x>
+              <d6p1:_y>21.26</d6p1:_y>
+              <d6p1:_z>1.93</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.3393782383419689</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>41.24</d6p1:_x>
+              <d6p1:_y>21.26</d6p1:_y>
+              <d6p1:_z>1.93</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.66839378238341973</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>41.24</d6p1:_x>
+              <d6p1:_y>21.26</d6p1:_y>
+              <d6p1:_z>1.93</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.17616580310880828</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>65.540438714079443</d6p1:_x>
+              <d6p1:_y>69.860877428158872</d6p1:_y>
+              <d6p1:_z>10.030146238026479</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>65.540438714079443</d6p1:_x>
+              <d6p1:_y>69.860877428158872</d6p1:_y>
+              <d6p1:_z>10.030146238026479</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.82383419689119175</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>65.540438714079443</d6p1:_x>
+              <d6p1:_y>69.860877428158872</d6p1:_y>
+              <d6p1:_z>10.030146238026479</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>18a54f1a-c76d-45aa-bc36-85c12d09764a</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>3.6731639639442681</d6p1:_x>
+              <d6p1:_y>2.071786635086049</d6p1:_y>
+              <d6p1:_z>15.535531014382794</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>eddcd11c-f774-40cc-8c51-7f23071f7176</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>75.364867760268453</d6p1:_x>
+              <d6p1:_y>89.509396053661845</d6p1:_y>
+              <d6p1:_z>13.30600245289579</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName>Yellow</d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>74171f58-6633-4c99-a556-611ed322c396</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.3393782383419689</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.66839378238341973</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.17616580310880828</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.82383419689119175</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>1e701291-4afe-4b1a-93d5-04197ae5a29a</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.3393782383419689</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.66839378238341973</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.6602004952348048</d6p1:_x>
+              <d6p1:_y>1.8640801980939217</d6p1:_y>
+              <d6p1:_z>24.540280170197683</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.17616580310880828</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.82383419689119175</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>25.176554738908528</d6p1:_x>
+              <d6p1:_y>13.413142174856777</d6p1:_y>
+              <d6p1:_z>58.388784554211583</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>9be2a482-9150-4596-b7d0-d8e12a725e52</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>25</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>611485a6-3569-4165-9267-d7daffcbafe7</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>25</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>07b9490d-9359-4d3e-a41e-d423b129e38b</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>3000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>3.6731639639442681</d6p1:_x>
+              <d6p1:_y>2.071786635086049</d6p1:_y>
+              <d6p1:_z>15.535531014382794</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>99.99880501058</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>0b3d2a4d-1537-458b-8604-0b31d9508a24</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>75.364867760268453</d6p1:_x>
+              <d6p1:_y>89.509396053661845</d6p1:_y>
+              <d6p1:_z>13.30600245289579</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.16839378238341968</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>99.99880501058</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>0</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+  </_dataModels>
+  <_effectNodeSurrogates xmlns="">
+    <EffectNodeSurrogate>
+      <InstanceId>7f9595ae-7a67-42c8-8fe1-91286724d895</InstanceId>
+      <StartTime>PT0.25S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT12.625S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>a2061d78-685d-490c-8453-cea078fd8093</InstanceId>
+      <StartTime>PT12.875S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT16.904S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>b8701132-3fba-4818-91c5-188c845088c4</InstanceId>
+      <StartTime>PT12.875S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT16.904S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>7882e76d-e096-4e77-a1aa-67cb465c556c</InstanceId>
+      <StartTime>PT29.779S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT16.985S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>59835a70-47a3-4713-8845-21cbe3ef4421</InstanceId>
+      <StartTime>PT29.779S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT16.985S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>e015a7c0-4c9c-4d4b-8a29-3833488b5fd4</InstanceId>
+      <StartTime>PT46.764S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT14.548S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>0a0876ce-09f5-4bb5-9b56-06d6055fc763</InstanceId>
+      <StartTime>PT46.764S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT14.548S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>3a32081d-2fe7-4c6a-b9c4-6a6e5b4a46c6</InstanceId>
+      <StartTime>PT1M1.312S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT46.475S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>cce8373d-fcb1-4566-8d4e-8812dc76b17a</InstanceId>
+      <StartTime>PT1M1.312S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT46.475S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>e169e3d2-9d25-49f2-97fa-68e5cf61998a</InstanceId>
+      <StartTime>PT1M47.787S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT46.475S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>00566c1e-0a9a-456d-98d8-104b402b6ab0</InstanceId>
+      <StartTime>PT1M47.787S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT46.475S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>18a54f1a-c76d-45aa-bc36-85c12d09764a</InstanceId>
+      <StartTime>PT2M34.262S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT55.669S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>eddcd11c-f774-40cc-8c51-7f23071f7176</InstanceId>
+      <StartTime>PT2M34.262S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT55.669S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>9be2a482-9150-4596-b7d0-d8e12a725e52</InstanceId>
+      <StartTime>PT2M34.262S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT55.669S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>74171f58-6633-4c99-a556-611ed322c396</InstanceId>
+      <StartTime>PT2M34.308S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT55.669S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>1e701291-4afe-4b1a-93d5-04197ae5a29a</InstanceId>
+      <StartTime>PT2M34.308S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT55.669S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>611485a6-3569-4165-9267-d7daffcbafe7</InstanceId>
+      <StartTime>PT3M29.931S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT31.8549268S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>07b9490d-9359-4d3e-a41e-d423b129e38b</InstanceId>
+      <StartTime>PT3M29.931S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT31.8549268S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>0b3d2a4d-1537-458b-8604-0b31d9508a24</InstanceId>
+      <StartTime>PT3M29.931S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT32.152948S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+  </_effectNodeSurrogates>
+  <_filterNodeSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="">
+    <MediaSurrogate>
+      <FileName>09 Track 9.mp3</FileName>
+      <InstanceId>d863a760-160a-4ae2-a68a-51f9232b8f3b</InstanceId>
+      <TypeId>fe460392-3fab-4c63-99dd-d76c48354150</TypeId>
+    </MediaSurrogate>
+  </_mediaSurrogates>
+  <_selectedTimingProviderSurrogate xmlns="">
+    <ProviderType>Media</ProviderType>
+    <SourceName>09 Track 9.mp3</SourceName>
+  </_selectedTimingProviderSurrogate>
+  <MarkCollections>
+    <MarkCollection>
+      <Enabled>true</Enabled>
+      <Id>214f284c-dcef-435d-a615-f207781c8879</Id>
+      <Level>1</Level>
+      <MarkColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4294967168</d3p1:value>
+      </MarkColor>
+      <Marks xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d3p1:duration>PT0.116S</d3p1:duration>
+        <d3p1:duration>PT2.252S</d3p1:duration>
+        <d3p1:duration>PT4.365S</d3p1:duration>
+        <d3p1:duration>PT6.478S</d3p1:duration>
+        <d3p1:duration>PT8.579S</d3p1:duration>
+        <d3p1:duration>PT10.727S</d3p1:duration>
+        <d3p1:duration>PT12.875S</d3p1:duration>
+        <d3p1:duration>PT15.023S</d3p1:duration>
+        <d3p1:duration>PT17.101S</d3p1:duration>
+        <d3p1:duration>PT19.226S</d3p1:duration>
+        <d3p1:duration>PT21.315S</d3p1:duration>
+        <d3p1:duration>PT23.417S</d3p1:duration>
+        <d3p1:duration>PT25.576S</d3p1:duration>
+        <d3p1:duration>PT27.701S</d3p1:duration>
+        <d3p1:duration>PT29.779S</d3p1:duration>
+        <d3p1:duration>PT31.892S</d3p1:duration>
+        <d3p1:duration>PT34.028S</d3p1:duration>
+        <d3p1:duration>PT36.153S</d3p1:duration>
+        <d3p1:duration>PT38.266S</d3p1:duration>
+        <d3p1:duration>PT40.379S</d3p1:duration>
+        <d3p1:duration>PT42.492S</d3p1:duration>
+        <d3p1:duration>PT44.628S</d3p1:duration>
+        <d3p1:duration>PT46.764S</d3p1:duration>
+        <d3p1:duration>PT48.878S</d3p1:duration>
+        <d3p1:duration>PT51.037S</d3p1:duration>
+        <d3p1:duration>PT53.185S</d3p1:duration>
+        <d3p1:duration>PT55.251S</d3p1:duration>
+        <d3p1:duration>PT57.318S</d3p1:duration>
+        <d3p1:duration>PT59.35S</d3p1:duration>
+        <d3p1:duration>PT1M1.312S</d3p1:duration>
+        <d3p1:duration>PT1M3.32S</d3p1:duration>
+        <d3p1:duration>PT1M5.34S</d3p1:duration>
+        <d3p1:duration>PT1M7.233S</d3p1:duration>
+        <d3p1:duration>PT1M9.114S</d3p1:duration>
+        <d3p1:duration>PT1M10.936S</d3p1:duration>
+        <d3p1:duration>PT1M12.968S</d3p1:duration>
+        <d3p1:duration>PT1M14.884S</d3p1:duration>
+        <d3p1:duration>PT1M16.846S</d3p1:duration>
+        <d3p1:duration>PT1M18.762S</d3p1:duration>
+        <d3p1:duration>PT1M20.7S</d3p1:duration>
+        <d3p1:duration>PT1M22.628S</d3p1:duration>
+        <d3p1:duration>PT1M24.578S</d3p1:duration>
+        <d3p1:duration>PT1M26.494S</d3p1:duration>
+        <d3p1:duration>PT1M28.386S</d3p1:duration>
+        <d3p1:duration>PT1M30.36S</d3p1:duration>
+        <d3p1:duration>PT1M32.31S</d3p1:duration>
+        <d3p1:duration>PT1M34.261S</d3p1:duration>
+        <d3p1:duration>PT1M36.2S</d3p1:duration>
+        <d3p1:duration>PT1M38.15S</d3p1:duration>
+        <d3p1:duration>PT1M40.066S</d3p1:duration>
+        <d3p1:duration>PT1M42.028S</d3p1:duration>
+        <d3p1:duration>PT1M43.967S</d3p1:duration>
+        <d3p1:duration>PT1M45.906S</d3p1:duration>
+        <d3p1:duration>PT1M47.787S</d3p1:duration>
+        <d3p1:duration>PT1M49.76S</d3p1:duration>
+        <d3p1:duration>PT1M51.699S</d3p1:duration>
+        <d3p1:duration>PT1M53.626S</d3p1:duration>
+        <d3p1:duration>PT1M55.588S</d3p1:duration>
+        <d3p1:duration>PT1M57.516S</d3p1:duration>
+        <d3p1:duration>PT1M59.466S</d3p1:duration>
+        <d3p1:duration>PT2M1.393S</d3p1:duration>
+        <d3p1:duration>PT2M3.344S</d3p1:duration>
+        <d3p1:duration>PT2M5.271S</d3p1:duration>
+        <d3p1:duration>PT2M7.198S</d3p1:duration>
+        <d3p1:duration>PT2M9.149S</d3p1:duration>
+        <d3p1:duration>PT2M11.099S</d3p1:duration>
+        <d3p1:duration>PT2M13.038S</d3p1:duration>
+        <d3p1:duration>PT2M14.965S</d3p1:duration>
+        <d3p1:duration>PT2M16.916S</d3p1:duration>
+        <d3p1:duration>PT2M18.855S</d3p1:duration>
+        <d3p1:duration>PT2M20.782S</d3p1:duration>
+        <d3p1:duration>PT2M22.721S</d3p1:duration>
+        <d3p1:duration>PT2M24.66S</d3p1:duration>
+        <d3p1:duration>PT2M26.61S</d3p1:duration>
+        <d3p1:duration>PT2M28.526S</d3p1:duration>
+        <d3p1:duration>PT2M30.465S</d3p1:duration>
+        <d3p1:duration>PT2M32.404S</d3p1:duration>
+        <d3p1:duration>PT2M34.308S</d3p1:duration>
+        <d3p1:duration>PT2M36.281S</d3p1:duration>
+        <d3p1:duration>PT2M38.243S</d3p1:duration>
+        <d3p1:duration>PT2M40.252S</d3p1:duration>
+        <d3p1:duration>PT2M42.121S</d3p1:duration>
+        <d3p1:duration>PT2M43.84S</d3p1:duration>
+        <d3p1:duration>PT2M45.349S</d3p1:duration>
+        <d3p1:duration>PT2M46.881S</d3p1:duration>
+        <d3p1:duration>PT2M48.391S</d3p1:duration>
+        <d3p1:duration>PT2M49.981S</d3p1:duration>
+        <d3p1:duration>PT2M51.874S</d3p1:duration>
+        <d3p1:duration>PT2M53.789S</d3p1:duration>
+        <d3p1:duration>PT2M55.705S</d3p1:duration>
+        <d3p1:duration>PT2M57.632S</d3p1:duration>
+        <d3p1:duration>PT2M59.548S</d3p1:duration>
+        <d3p1:duration>PT3M1.475S</d3p1:duration>
+        <d3p1:duration>PT3M3.414S</d3p1:duration>
+        <d3p1:duration>PT3M5.364S</d3p1:duration>
+        <d3p1:duration>PT3M7.315S</d3p1:duration>
+        <d3p1:duration>PT3M9.265S</d3p1:duration>
+        <d3p1:duration>PT3M11.181S</d3p1:duration>
+        <d3p1:duration>PT3M13.108S</d3p1:duration>
+        <d3p1:duration>PT3M15.047S</d3p1:duration>
+        <d3p1:duration>PT3M16.916S</d3p1:duration>
+        <d3p1:duration>PT3M18.774S</d3p1:duration>
+        <d3p1:duration>PT3M20.666S</d3p1:duration>
+        <d3p1:duration>PT3M22.617S</d3p1:duration>
+        <d3p1:duration>PT3M24.521S</d3p1:duration>
+        <d3p1:duration>PT3M26.425S</d3p1:duration>
+        <d3p1:duration>PT3M28.271S</d3p1:duration>
+        <d3p1:duration>PT3M29.931S</d3p1:duration>
+        <d3p1:duration>PT3M31.406S</d3p1:duration>
+        <d3p1:duration>PT3M32.845S</d3p1:duration>
+        <d3p1:duration>PT3M34.285S</d3p1:duration>
+        <d3p1:duration>PT3M35.701S</d3p1:duration>
+        <d3p1:duration>PT3M37.106S</d3p1:duration>
+        <d3p1:duration>PT3M38.488S</d3p1:duration>
+        <d3p1:duration>PT3M39.846S</d3p1:duration>
+        <d3p1:duration>PT3M41.216S</d3p1:duration>
+        <d3p1:duration>PT3M42.4S</d3p1:duration>
+        <d3p1:duration>PT3M43.584S</d3p1:duration>
+        <d3p1:duration>PT3M44.769S</d3p1:duration>
+        <d3p1:duration>PT3M46.023S</d3p1:duration>
+        <d3p1:duration>PT3M47.276S</d3p1:duration>
+        <d3p1:duration>PT3M48.53S</d3p1:duration>
+        <d3p1:duration>PT3M49.598S</d3p1:duration>
+        <d3p1:duration>PT3M50.62S</d3p1:duration>
+        <d3p1:duration>PT3M51.595S</d3p1:duration>
+        <d3p1:duration>PT3M52.617S</d3p1:duration>
+        <d3p1:duration>PT3M53.615S</d3p1:duration>
+        <d3p1:duration>PT3M54.626S</d3p1:duration>
+        <d3p1:duration>PT3M55.485S</d3p1:duration>
+        <d3p1:duration>PT3M56.297S</d3p1:duration>
+        <d3p1:duration>PT3M56.994S</d3p1:duration>
+        <d3p1:duration>PT3M57.691S</d3p1:duration>
+        <d3p1:duration>PT3M58.387S</d3p1:duration>
+        <d3p1:duration>PT3M59.084S</d3p1:duration>
+        <d3p1:duration>PT3M59.78S</d3p1:duration>
+        <d3p1:duration>PT4M0.477S</d3p1:duration>
+        <d3p1:duration>PT4M1.174S</d3p1:duration>
+        <d3p1:duration>PT4M1.87S</d3p1:duration>
+        <d3p1:duration>PT4M2.567S</d3p1:duration>
+        <d3p1:duration>PT4M3.263S</d3p1:duration>
+      </Marks>
+      <Name>Beats 1/4 Beat #1 (Bar)</Name>
+    </MarkCollection>
+    <MarkCollection>
+      <Enabled>true</Enabled>
+      <Id>ac719c8e-2a76-40e8-9742-a59cd02e9833</Id>
+      <Level>1</Level>
+      <MarkColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4294934528</d3p1:value>
+      </MarkColor>
+      <Marks xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d3p1:duration>PT0.835S</d3p1:duration>
+        <d3p1:duration>PT2.937S</d3p1:duration>
+        <d3p1:duration>PT5.061S</d3p1:duration>
+        <d3p1:duration>PT7.174S</d3p1:duration>
+        <d3p1:duration>PT9.276S</d3p1:duration>
+        <d3p1:duration>PT11.447S</d3p1:duration>
+        <d3p1:duration>PT13.606S</d3p1:duration>
+        <d3p1:duration>PT15.719S</d3p1:duration>
+        <d3p1:duration>PT17.786S</d3p1:duration>
+        <d3p1:duration>PT19.922S</d3p1:duration>
+        <d3p1:duration>PT21.989S</d3p1:duration>
+        <d3p1:duration>PT24.125S</d3p1:duration>
+        <d3p1:duration>PT26.273S</d3p1:duration>
+        <d3p1:duration>PT28.398S</d3p1:duration>
+        <d3p1:duration>PT30.499S</d3p1:duration>
+        <d3p1:duration>PT32.612S</d3p1:duration>
+        <d3p1:duration>PT34.737S</d3p1:duration>
+        <d3p1:duration>PT36.838S</d3p1:duration>
+        <d3p1:duration>PT38.963S</d3p1:duration>
+        <d3p1:duration>PT41.087S</d3p1:duration>
+        <d3p1:duration>PT43.212S</d3p1:duration>
+        <d3p1:duration>PT45.336S</d3p1:duration>
+        <d3p1:duration>PT47.438S</d3p1:duration>
+        <d3p1:duration>PT49.586S</d3p1:duration>
+        <d3p1:duration>PT51.768S</d3p1:duration>
+        <d3p1:duration>PT53.858S</d3p1:duration>
+        <d3p1:duration>PT55.948S</d3p1:duration>
+        <d3p1:duration>PT58.003S</d3p1:duration>
+        <d3p1:duration>PT1M</d3p1:duration>
+        <d3p1:duration>PT1M1.95S</d3p1:duration>
+        <d3p1:duration>PT1M3.994S</d3p1:duration>
+        <d3p1:duration>PT1M5.967S</d3p1:duration>
+        <d3p1:duration>PT1M7.871S</d3p1:duration>
+        <d3p1:duration>PT1M9.729S</d3p1:duration>
+        <d3p1:duration>PT1M11.633S</d3p1:duration>
+        <d3p1:duration>PT1M13.595S</d3p1:duration>
+        <d3p1:duration>PT1M15.522S</d3p1:duration>
+        <d3p1:duration>PT1M17.473S</d3p1:duration>
+        <d3p1:duration>PT1M19.4S</d3p1:duration>
+        <d3p1:duration>PT1M21.351S</d3p1:duration>
+        <d3p1:duration>PT1M23.266S</d3p1:duration>
+        <d3p1:duration>PT1M25.217S</d3p1:duration>
+        <d3p1:duration>PT1M27.132S</d3p1:duration>
+        <d3p1:duration>PT1M29.036S</d3p1:duration>
+        <d3p1:duration>PT1M31.01S</d3p1:duration>
+        <d3p1:duration>PT1M32.949S</d3p1:duration>
+        <d3p1:duration>PT1M34.911S</d3p1:duration>
+        <d3p1:duration>PT1M36.85S</d3p1:duration>
+        <d3p1:duration>PT1M38.789S</d3p1:duration>
+        <d3p1:duration>PT1M40.728S</d3p1:duration>
+        <d3p1:duration>PT1M42.678S</d3p1:duration>
+        <d3p1:duration>PT1M44.605S</d3p1:duration>
+        <d3p1:duration>PT1M46.533S</d3p1:duration>
+        <d3p1:duration>PT1M48.46S</d3p1:duration>
+        <d3p1:duration>PT1M50.41S</d3p1:duration>
+        <d3p1:duration>PT1M52.349S</d3p1:duration>
+        <d3p1:duration>PT1M54.288S</d3p1:duration>
+        <d3p1:duration>PT1M56.239S</d3p1:duration>
+        <d3p1:duration>PT1M58.166S</d3p1:duration>
+        <d3p1:duration>PT2M0.116S</d3p1:duration>
+        <d3p1:duration>PT2M2.032S</d3p1:duration>
+        <d3p1:duration>PT2M3.994S</d3p1:duration>
+        <d3p1:duration>PT2M5.91S</d3p1:duration>
+        <d3p1:duration>PT2M7.837S</d3p1:duration>
+        <d3p1:duration>PT2M9.787S</d3p1:duration>
+        <d3p1:duration>PT2M11.738S</d3p1:duration>
+        <d3p1:duration>PT2M13.677S</d3p1:duration>
+        <d3p1:duration>PT2M15.616S</d3p1:duration>
+        <d3p1:duration>PT2M17.578S</d3p1:duration>
+        <d3p1:duration>PT2M19.493S</d3p1:duration>
+        <d3p1:duration>PT2M21.432S</d3p1:duration>
+        <d3p1:duration>PT2M23.371S</d3p1:duration>
+        <d3p1:duration>PT2M25.298S</d3p1:duration>
+        <d3p1:duration>PT2M27.249S</d3p1:duration>
+        <d3p1:duration>PT2M29.176S</d3p1:duration>
+        <d3p1:duration>PT2M31.115S</d3p1:duration>
+        <d3p1:duration>PT2M33.042S</d3p1:duration>
+        <d3p1:duration>PT2M34.981S</d3p1:duration>
+        <d3p1:duration>PT2M36.932S</d3p1:duration>
+        <d3p1:duration>PT2M38.963S</d3p1:duration>
+        <d3p1:duration>PT2M40.867S</d3p1:duration>
+        <d3p1:duration>PT2M42.748S</d3p1:duration>
+        <d3p1:duration>PT2M44.35S</d3p1:duration>
+        <d3p1:duration>PT2M45.848S</d3p1:duration>
+        <d3p1:duration>PT2M47.392S</d3p1:duration>
+        <d3p1:duration>PT2M48.878S</d3p1:duration>
+        <d3p1:duration>PT2M50.608S</d3p1:duration>
+        <d3p1:duration>PT2M52.501S</d3p1:duration>
+        <d3p1:duration>PT2M54.416S</d3p1:duration>
+        <d3p1:duration>PT2M56.378S</d3p1:duration>
+        <d3p1:duration>PT2M58.259S</d3p1:duration>
+        <d3p1:duration>PT3M0.198S</d3p1:duration>
+        <d3p1:duration>PT3M2.125S</d3p1:duration>
+        <d3p1:duration>PT3M4.076S</d3p1:duration>
+        <d3p1:duration>PT3M6.003S</d3p1:duration>
+        <d3p1:duration>PT3M7.953S</d3p1:duration>
+        <d3p1:duration>PT3M9.904S</d3p1:duration>
+        <d3p1:duration>PT3M11.831S</d3p1:duration>
+        <d3p1:duration>PT3M13.758S</d3p1:duration>
+        <d3p1:duration>PT3M15.674S</d3p1:duration>
+        <d3p1:duration>PT3M17.543S</d3p1:duration>
+        <d3p1:duration>PT3M19.389S</d3p1:duration>
+        <d3p1:duration>PT3M21.328S</d3p1:duration>
+        <d3p1:duration>PT3M23.255S</d3p1:duration>
+        <d3p1:duration>PT3M25.159S</d3p1:duration>
+        <d3p1:duration>PT3M27.063S</d3p1:duration>
+        <d3p1:duration>PT3M28.851S</d3p1:duration>
+        <d3p1:duration>PT3M30.43S</d3p1:duration>
+        <d3p1:duration>PT3M31.882S</d3p1:duration>
+        <d3p1:duration>PT3M33.321S</d3p1:duration>
+        <d3p1:duration>PT3M34.761S</d3p1:duration>
+        <d3p1:duration>PT3M36.166S</d3p1:duration>
+        <d3p1:duration>PT3M37.582S</d3p1:duration>
+        <d3p1:duration>PT3M38.94S</d3p1:duration>
+        <d3p1:duration>PT3M40.299S</d3p1:duration>
+        <d3p1:duration>PT3M41.611S</d3p1:duration>
+        <d3p1:duration>PT3M42.807S</d3p1:duration>
+        <d3p1:duration>PT3M43.979S</d3p1:duration>
+        <d3p1:duration>PT3M45.187S</d3p1:duration>
+        <d3p1:duration>PT3M46.44S</d3p1:duration>
+        <d3p1:duration>PT3M47.694S</d3p1:duration>
+        <d3p1:duration>PT3M48.879S</d3p1:duration>
+        <d3p1:duration>PT3M49.947S</d3p1:duration>
+        <d3p1:duration>PT3M50.945S</d3p1:duration>
+        <d3p1:duration>PT3M51.944S</d3p1:duration>
+        <d3p1:duration>PT3M52.954S</d3p1:duration>
+        <d3p1:duration>PT3M53.952S</d3p1:duration>
+        <d3p1:duration>PT3M54.916S</d3p1:duration>
+        <d3p1:duration>PT3M55.763S</d3p1:duration>
+        <d3p1:duration>PT3M56.53S</d3p1:duration>
+        <d3p1:duration>PT3M57.226S</d3p1:duration>
+        <d3p1:duration>PT3M57.923S</d3p1:duration>
+        <d3p1:duration>PT3M58.619S</d3p1:duration>
+        <d3p1:duration>PT3M59.316S</d3p1:duration>
+        <d3p1:duration>PT4M0.013S</d3p1:duration>
+        <d3p1:duration>PT4M0.709S</d3p1:duration>
+        <d3p1:duration>PT4M1.406S</d3p1:duration>
+        <d3p1:duration>PT4M2.102S</d3p1:duration>
+        <d3p1:duration>PT4M2.799S</d3p1:duration>
+        <d3p1:duration>PT4M3.496S</d3p1:duration>
+      </Marks>
+      <Name>Beats Beat #2</Name>
+    </MarkCollection>
+    <MarkCollection>
+      <Enabled>true</Enabled>
+      <Id>0eddf80e-6fec-40ef-b879-846da730728e</Id>
+      <Level>1</Level>
+      <MarkColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4294934528</d3p1:value>
+      </MarkColor>
+      <Marks xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d3p1:duration>PT1.509S</d3p1:duration>
+        <d3p1:duration>PT3.657S</d3p1:duration>
+        <d3p1:duration>PT5.77S</d3p1:duration>
+        <d3p1:duration>PT7.871S</d3p1:duration>
+        <d3p1:duration>PT9.996S</d3p1:duration>
+        <d3p1:duration>PT12.167S</d3p1:duration>
+        <d3p1:duration>PT14.326S</d3p1:duration>
+        <d3p1:duration>PT16.404S</d3p1:duration>
+        <d3p1:duration>PT18.506S</d3p1:duration>
+        <d3p1:duration>PT20.619S</d3p1:duration>
+        <d3p1:duration>PT22.709S</d3p1:duration>
+        <d3p1:duration>PT24.868S</d3p1:duration>
+        <d3p1:duration>PT26.981S</d3p1:duration>
+        <d3p1:duration>PT29.071S</d3p1:duration>
+        <d3p1:duration>PT31.196S</d3p1:duration>
+        <d3p1:duration>PT33.309S</d3p1:duration>
+        <d3p1:duration>PT35.445S</d3p1:duration>
+        <d3p1:duration>PT37.546S</d3p1:duration>
+        <d3p1:duration>PT39.671S</d3p1:duration>
+        <d3p1:duration>PT41.784S</d3p1:duration>
+        <d3p1:duration>PT43.908S</d3p1:duration>
+        <d3p1:duration>PT46.033S</d3p1:duration>
+        <d3p1:duration>PT48.134S</d3p1:duration>
+        <d3p1:duration>PT50.294S</d3p1:duration>
+        <d3p1:duration>PT52.488S</d3p1:duration>
+        <d3p1:duration>PT54.543S</d3p1:duration>
+        <d3p1:duration>PT56.633S</d3p1:duration>
+        <d3p1:duration>PT58.676S</d3p1:duration>
+        <d3p1:duration>PT1M0.662S</d3p1:duration>
+        <d3p1:duration>PT1M2.635S</d3p1:duration>
+        <d3p1:duration>PT1M4.667S</d3p1:duration>
+        <d3p1:duration>PT1M6.606S</d3p1:duration>
+        <d3p1:duration>PT1M8.498S</d3p1:duration>
+        <d3p1:duration>PT1M10.333S</d3p1:duration>
+        <d3p1:duration>PT1M12.306S</d3p1:duration>
+        <d3p1:duration>PT1M14.245S</d3p1:duration>
+        <d3p1:duration>PT1M16.184S</d3p1:duration>
+        <d3p1:duration>PT1M18.123S</d3p1:duration>
+        <d3p1:duration>PT1M20.062S</d3p1:duration>
+        <d3p1:duration>PT1M21.989S</d3p1:duration>
+        <d3p1:duration>PT1M23.928S</d3p1:duration>
+        <d3p1:duration>PT1M25.855S</d3p1:duration>
+        <d3p1:duration>PT1M27.759S</d3p1:duration>
+        <d3p1:duration>PT1M29.71S</d3p1:duration>
+        <d3p1:duration>PT1M31.672S</d3p1:duration>
+        <d3p1:duration>PT1M33.622S</d3p1:duration>
+        <d3p1:duration>PT1M35.55S</d3p1:duration>
+        <d3p1:duration>PT1M37.5S</d3p1:duration>
+        <d3p1:duration>PT1M39.427S</d3p1:duration>
+        <d3p1:duration>PT1M41.378S</d3p1:duration>
+        <d3p1:duration>PT1M43.305S</d3p1:duration>
+        <d3p1:duration>PT1M45.256S</d3p1:duration>
+        <d3p1:duration>PT1M47.16S</d3p1:duration>
+        <d3p1:duration>PT1M49.098S</d3p1:duration>
+        <d3p1:duration>PT1M51.049S</d3p1:duration>
+        <d3p1:duration>PT1M52.965S</d3p1:duration>
+        <d3p1:duration>PT1M54.938S</d3p1:duration>
+        <d3p1:duration>PT1M56.889S</d3p1:duration>
+        <d3p1:duration>PT1M58.804S</d3p1:duration>
+        <d3p1:duration>PT2M0.755S</d3p1:duration>
+        <d3p1:duration>PT2M2.705S</d3p1:duration>
+        <d3p1:duration>PT2M4.633S</d3p1:duration>
+        <d3p1:duration>PT2M6.548S</d3p1:duration>
+        <d3p1:duration>PT2M8.487S</d3p1:duration>
+        <d3p1:duration>PT2M10.449S</d3p1:duration>
+        <d3p1:duration>PT2M12.4S</d3p1:duration>
+        <d3p1:duration>PT2M14.315S</d3p1:duration>
+        <d3p1:duration>PT2M16.266S</d3p1:duration>
+        <d3p1:duration>PT2M18.216S</d3p1:duration>
+        <d3p1:duration>PT2M20.144S</d3p1:duration>
+        <d3p1:duration>PT2M22.059S</d3p1:duration>
+        <d3p1:duration>PT2M24.021S</d3p1:duration>
+        <d3p1:duration>PT2M25.949S</d3p1:duration>
+        <d3p1:duration>PT2M27.887S</d3p1:duration>
+        <d3p1:duration>PT2M29.815S</d3p1:duration>
+        <d3p1:duration>PT2M31.754S</d3p1:duration>
+        <d3p1:duration>PT2M33.681S</d3p1:duration>
+        <d3p1:duration>PT2M35.631S</d3p1:duration>
+        <d3p1:duration>PT2M37.582S</d3p1:duration>
+        <d3p1:duration>PT2M39.613S</d3p1:duration>
+        <d3p1:duration>PT2M41.494S</d3p1:duration>
+        <d3p1:duration>PT2M43.352S</d3p1:duration>
+        <d3p1:duration>PT2M44.838S</d3p1:duration>
+        <d3p1:duration>PT2M46.37S</d3p1:duration>
+        <d3p1:duration>PT2M47.903S</d3p1:duration>
+        <d3p1:duration>PT2M49.366S</d3p1:duration>
+        <d3p1:duration>PT2M51.235S</d3p1:duration>
+        <d3p1:duration>PT2M53.151S</d3p1:duration>
+        <d3p1:duration>PT2M55.032S</d3p1:duration>
+        <d3p1:duration>PT2M57.005S</d3p1:duration>
+        <d3p1:duration>PT2M58.898S</d3p1:duration>
+        <d3p1:duration>PT3M0.825S</d3p1:duration>
+        <d3p1:duration>PT3M2.764S</d3p1:duration>
+        <d3p1:duration>PT3M4.726S</d3p1:duration>
+        <d3p1:duration>PT3M6.676S</d3p1:duration>
+        <d3p1:duration>PT3M8.615S</d3p1:duration>
+        <d3p1:duration>PT3M10.542S</d3p1:duration>
+        <d3p1:duration>PT3M12.481S</d3p1:duration>
+        <d3p1:duration>PT3M14.409S</d3p1:duration>
+        <d3p1:duration>PT3M16.289S</d3p1:duration>
+        <d3p1:duration>PT3M18.159S</d3p1:duration>
+        <d3p1:duration>PT3M20.005S</d3p1:duration>
+        <d3p1:duration>PT3M21.99S</d3p1:duration>
+        <d3p1:duration>PT3M23.882S</d3p1:duration>
+        <d3p1:duration>PT3M25.798S</d3p1:duration>
+        <d3p1:duration>PT3M27.69S</d3p1:duration>
+        <d3p1:duration>PT3M29.443S</d3p1:duration>
+        <d3p1:duration>PT3M30.918S</d3p1:duration>
+        <d3p1:duration>PT3M32.369S</d3p1:duration>
+        <d3p1:duration>PT3M33.809S</d3p1:duration>
+        <d3p1:duration>PT3M35.237S</d3p1:duration>
+        <d3p1:duration>PT3M36.63S</d3p1:duration>
+        <d3p1:duration>PT3M38.046S</d3p1:duration>
+        <d3p1:duration>PT3M39.393S</d3p1:duration>
+        <d3p1:duration>PT3M40.752S</d3p1:duration>
+        <d3p1:duration>PT3M42.005S</d3p1:duration>
+        <d3p1:duration>PT3M43.19S</d3p1:duration>
+        <d3p1:duration>PT3M44.362S</d3p1:duration>
+        <d3p1:duration>PT3M45.605S</d3p1:duration>
+        <d3p1:duration>PT3M46.858S</d3p1:duration>
+        <d3p1:duration>PT3M48.112S</d3p1:duration>
+        <d3p1:duration>PT3M49.239S</d3p1:duration>
+        <d3p1:duration>PT3M50.295S</d3p1:duration>
+        <d3p1:duration>PT3M51.27S</d3p1:duration>
+        <d3p1:duration>PT3M52.28S</d3p1:duration>
+        <d3p1:duration>PT3M53.29S</d3p1:duration>
+        <d3p1:duration>PT3M54.289S</d3p1:duration>
+        <d3p1:duration>PT3M55.206S</d3p1:duration>
+        <d3p1:duration>PT3M56.054S</d3p1:duration>
+        <d3p1:duration>PT3M56.762S</d3p1:duration>
+        <d3p1:duration>PT3M57.458S</d3p1:duration>
+        <d3p1:duration>PT3M58.155S</d3p1:duration>
+        <d3p1:duration>PT3M58.852S</d3p1:duration>
+        <d3p1:duration>PT3M59.548S</d3p1:duration>
+        <d3p1:duration>PT4M0.245S</d3p1:duration>
+        <d3p1:duration>PT4M0.941S</d3p1:duration>
+        <d3p1:duration>PT4M1.638S</d3p1:duration>
+        <d3p1:duration>PT4M2.335S</d3p1:duration>
+        <d3p1:duration>PT4M3.031S</d3p1:duration>
+      </Marks>
+      <Name>Beats Beat #3</Name>
+    </MarkCollection>
+  </MarkCollections>
+  <TimePerPixel>PT0.0745053S</TimePerPixel>
+</TimedSequenceData>
