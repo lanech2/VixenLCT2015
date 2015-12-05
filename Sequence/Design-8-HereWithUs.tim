@@ -33,63 +33,63 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>25.054462134180412</d6p1:_x>
-              <d6p1:_y>10.83093271029766</d6p1:_y>
-              <d6p1:_z>95.377803392797475</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.19689119170984457</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.159784055343721</d6p1:_x>
-              <d6p1:_y>45.098284553268471</d6p1:_y>
-              <d6p1:_z>5.9072183945629524</d6p1:_z>
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.5</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>35.760215156</d6p1:_x>
-              <d6p1:_y>71.5200860624</d6p1:_y>
-              <d6p1:_z>11.921132996000003</d6p1:_z>
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.69170984455958551</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.430769811346693</d6p1:_x>
-              <d6p1:_y>76.517719496071166</d6p1:_y>
-              <d6p1:_z>106.5610438002934</d6p1:_z>
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.8575129533678757</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>18.050955118399997</d6p1:_x>
-              <d6p1:_y>7.2204923815999988</d6p1:_y>
-              <d6p1:_z>95.0500446988</d6p1:_z>
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.36010362694300518</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>71.4875923236411</d6p1:_x>
-              <d6p1:_y>89.938224041920847</d6p1:_y>
-              <d6p1:_z>13.593177538014892</d6p1:_z>
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -217,54 +217,6 @@
       </d2p1:StaticColor>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
-      <ModuleInstanceId>de44a05f-b92c-4839-aedd-8452d297995c</ModuleInstanceId>
-      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
-      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>2000</d2p1:AveragePulseTime>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
-      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
-      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
-      <d2p1:LevelVariation>50</d2p1:LevelVariation>
-      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
-      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
-      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
-      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
-        <d3p1:knownColor>0</d3p1:knownColor>
-        <d3p1:name i:nil="true" />
-        <d3p1:state>0</d3p1:state>
-        <d3p1:value>0</d3p1:value>
-      </d2p1:StaticColor>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>f7004ae9-f092-47ca-a9d8-b247a52fee0c</ModuleInstanceId>
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
@@ -334,225 +286,68 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>25.054462134180412</d6p1:_x>
-              <d6p1:_y>10.83093271029766</d6p1:_y>
-              <d6p1:_z>95.377803392797475</d6p1:_z>
+              <d6p1:_x>33.599670508648707</d6p1:_x>
+              <d6p1:_y>18.162037568561129</d6p1:_y>
+              <d6p1:_z>2.1154934538927579</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.19689119170984457</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.159784055343721</d6p1:_x>
-              <d6p1:_y>45.098284553268471</d6p1:_y>
-              <d6p1:_z>5.9072183945629524</d6p1:_z>
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.5</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>35.760215156</d6p1:_x>
-              <d6p1:_y>71.5200860624</d6p1:_y>
-              <d6p1:_z>11.921132996000003</d6p1:_z>
+              <d6p1:_x>30.375566095831587</d6p1:_x>
+              <d6p1:_y>57.121933477557043</d6p1:_y>
+              <d6p1:_z>15.385917343390785</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.69170984455958551</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.430769811346693</d6p1:_x>
-              <d6p1:_y>76.517719496071166</d6p1:_y>
-              <d6p1:_z>106.5610438002934</d6p1:_z>
+              <d6p1:_x>49.25779347700896</d6p1:_x>
+              <d6p1:_y>60.313062999631725</d6p1:_y>
+              <d6p1:_z>10.411923821249548</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.8575129533678757</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>18.050955118399997</d6p1:_x>
-              <d6p1:_y>7.2204923815999988</d6p1:_y>
-              <d6p1:_z>95.0500446988</d6p1:_z>
+              <d6p1:_x>45.110107307565571</d6p1:_x>
+              <d6p1:_y>29.669828278373167</d6p1:_y>
+              <d6p1:_z>6.4812516380084144</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.36010362694300518</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>71.4875923236411</d6p1:_x>
-              <d6p1:_y>89.938224041920847</d6p1:_y>
-              <d6p1:_z>13.593177538014892</d6p1:_z>
+              <d6p1:_x>11.184242513562944</d6p1:_x>
+              <d6p1:_y>17.074926599579527</d6p1:_y>
+              <d6p1:_z>18.329103870599269</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">70.195457725630249</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">69.667943703075011</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
-      <ModuleInstanceId>3aeb56c3-4144-440e-acfb-399edd02a826</ModuleInstanceId>
-      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
-      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>2000</d2p1:AveragePulseTime>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
-      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
-      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
-      <d2p1:LevelVariation>50</d2p1:LevelVariation>
-      <d2p1:MaximumLevel>100</d2p1:MaximumLevel>
-      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
-      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
-      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
-        <d3p1:knownColor>0</d3p1:knownColor>
-        <d3p1:name i:nil="true" />
-        <d3p1:state>0</d3p1:state>
-        <d3p1:value>0</d3p1:value>
-      </d2p1:StaticColor>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>1b5d0b2a-0fad-4ff0-9dc0-4ba905986f25</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>25.054462134180412</d6p1:_x>
-              <d6p1:_y>10.83093271029766</d6p1:_y>
-              <d6p1:_z>95.377803392797475</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.19689119170984457</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.159784055343721</d6p1:_x>
-              <d6p1:_y>45.098284553268471</d6p1:_y>
-              <d6p1:_z>5.9072183945629524</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.5</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>35.760215156</d6p1:_x>
-              <d6p1:_y>71.5200860624</d6p1:_y>
-              <d6p1:_z>11.921132996000003</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.69170984455958551</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.430769811346693</d6p1:_x>
-              <d6p1:_y>76.517719496071166</d6p1:_y>
-              <d6p1:_z>106.5610438002934</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.8575129533678757</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>18.050955118399997</d6p1:_x>
-              <d6p1:_y>7.2204923815999988</d6p1:_y>
-              <d6p1:_z>95.0500446988</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.36010362694300518</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>71.4875923236411</d6p1:_x>
-              <d6p1:_y>89.938224041920847</d6p1:_y>
-              <d6p1:_z>13.593177538014892</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -600,63 +395,63 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>25.054462134180412</d6p1:_x>
-              <d6p1:_y>10.83093271029766</d6p1:_y>
-              <d6p1:_z>95.377803392797475</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.19689119170984457</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.159784055343721</d6p1:_x>
-              <d6p1:_y>45.098284553268471</d6p1:_y>
-              <d6p1:_z>5.9072183945629524</d6p1:_z>
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.5</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>35.760215156</d6p1:_x>
-              <d6p1:_y>71.5200860624</d6p1:_y>
-              <d6p1:_z>11.921132996000003</d6p1:_z>
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.69170984455958551</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.430769811346693</d6p1:_x>
-              <d6p1:_y>76.517719496071166</d6p1:_y>
-              <d6p1:_z>106.5610438002934</d6p1:_z>
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.8575129533678757</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>18.050955118399997</d6p1:_x>
-              <d6p1:_y>7.2204923815999988</d6p1:_y>
-              <d6p1:_z>95.0500446988</d6p1:_z>
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.36010362694300518</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>71.4875923236411</d6p1:_x>
-              <d6p1:_y>89.938224041920847</d6p1:_y>
-              <d6p1:_z>13.593177538014892</d6p1:_z>
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -757,68 +552,68 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>25.054462134180412</d6p1:_x>
-              <d6p1:_y>10.83093271029766</d6p1:_y>
-              <d6p1:_z>95.377803392797475</d6p1:_z>
+              <d6p1:_x>33.599670508648707</d6p1:_x>
+              <d6p1:_y>18.162037568561129</d6p1:_y>
+              <d6p1:_z>2.1154934538927579</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.19689119170984457</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.159784055343721</d6p1:_x>
-              <d6p1:_y>45.098284553268471</d6p1:_y>
-              <d6p1:_z>5.9072183945629524</d6p1:_z>
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.5</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>35.760215156</d6p1:_x>
-              <d6p1:_y>71.5200860624</d6p1:_y>
-              <d6p1:_z>11.921132996000003</d6p1:_z>
+              <d6p1:_x>30.375566095831587</d6p1:_x>
+              <d6p1:_y>57.121933477557043</d6p1:_y>
+              <d6p1:_z>15.385917343390785</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.69170984455958551</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.430769811346693</d6p1:_x>
-              <d6p1:_y>76.517719496071166</d6p1:_y>
-              <d6p1:_z>106.5610438002934</d6p1:_z>
+              <d6p1:_x>49.25779347700896</d6p1:_x>
+              <d6p1:_y>60.313062999631725</d6p1:_y>
+              <d6p1:_z>10.411923821249548</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.8575129533678757</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>18.050955118399997</d6p1:_x>
-              <d6p1:_y>7.2204923815999988</d6p1:_y>
-              <d6p1:_z>95.0500446988</d6p1:_z>
+              <d6p1:_x>45.110107307565571</d6p1:_x>
+              <d6p1:_y>29.669828278373167</d6p1:_y>
+              <d6p1:_z>6.4812516380084144</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.36010362694300518</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>71.4875923236411</d6p1:_x>
-              <d6p1:_y>89.938224041920847</d6p1:_y>
-              <d6p1:_z>13.593177538014892</d6p1:_z>
+              <d6p1:_x>11.184242513562944</d6p1:_x>
+              <d6p1:_y>17.074926599579527</d6p1:_y>
+              <d6p1:_z>18.329103870599269</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName>B-R Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -960,16 +755,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -978,7 +827,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.89560798856624</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -994,13 +843,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.368093966011017</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>70-100-70</d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Right</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
@@ -1028,16 +877,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -1046,7 +949,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.89560798856624</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -1062,13 +965,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.368093966011017</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>70-100-70</d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Left</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
@@ -1146,63 +1049,63 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>25.054462134180412</d6p1:_x>
-              <d6p1:_y>10.83093271029766</d6p1:_y>
-              <d6p1:_z>95.377803392797475</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.19689119170984457</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.159784055343721</d6p1:_x>
-              <d6p1:_y>45.098284553268471</d6p1:_y>
-              <d6p1:_z>5.9072183945629524</d6p1:_z>
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.5</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>35.760215156</d6p1:_x>
-              <d6p1:_y>71.5200860624</d6p1:_y>
-              <d6p1:_z>11.921132996000003</d6p1:_z>
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.69170984455958551</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.430769811346693</d6p1:_x>
-              <d6p1:_y>76.517719496071166</d6p1:_y>
-              <d6p1:_z>106.5610438002934</d6p1:_z>
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.8575129533678757</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>18.050955118399997</d6p1:_x>
-              <d6p1:_y>7.2204923815999988</d6p1:_y>
-              <d6p1:_z>95.0500446988</d6p1:_z>
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.36010362694300518</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>71.4875923236411</d6p1:_x>
-              <d6p1:_y>89.938224041920847</d6p1:_y>
-              <d6p1:_z>13.593177538014892</d6p1:_z>
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -1255,16 +1158,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>33.599670508648707</d6p1:_x>
+              <d6p1:_y>18.162037568561129</d6p1:_y>
+              <d6p1:_z>2.1154934538927579</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>30.375566095831587</d6p1:_x>
+              <d6p1:_y>57.121933477557043</d6p1:_y>
+              <d6p1:_z>15.385917343390785</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.25779347700896</d6p1:_x>
+              <d6p1:_y>60.313062999631725</d6p1:_y>
+              <d6p1:_z>10.411923821249548</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>45.110107307565571</d6p1:_x>
+              <d6p1:_y>29.669828278373167</d6p1:_y>
+              <d6p1:_z>6.4812516380084144</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>11.184242513562944</d6p1:_x>
+              <d6p1:_y>17.074926599579527</d6p1:_y>
+              <d6p1:_z>18.329103870599269</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>B-R Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
@@ -1301,16 +1258,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>33.599670508648707</d6p1:_x>
+              <d6p1:_y>18.162037568561129</d6p1:_y>
+              <d6p1:_z>2.1154934538927579</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>30.375566095831587</d6p1:_x>
+              <d6p1:_y>57.121933477557043</d6p1:_y>
+              <d6p1:_z>15.385917343390785</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.25779347700896</d6p1:_x>
+              <d6p1:_y>60.313062999631725</d6p1:_y>
+              <d6p1:_z>10.411923821249548</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>45.110107307565571</d6p1:_x>
+              <d6p1:_y>29.669828278373167</d6p1:_y>
+              <d6p1:_z>6.4812516380084144</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>11.184242513562944</d6p1:_x>
+              <d6p1:_y>17.074926599579527</d6p1:_y>
+              <d6p1:_z>18.329103870599269</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>B-R Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -1319,7 +1330,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.89560798856624</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -1335,13 +1346,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.368093966011017</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>70-100-70</d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Right</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
@@ -1369,16 +1380,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>33.599670508648707</d6p1:_x>
+              <d6p1:_y>18.162037568561129</d6p1:_y>
+              <d6p1:_z>2.1154934538927579</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>30.375566095831587</d6p1:_x>
+              <d6p1:_y>57.121933477557043</d6p1:_y>
+              <d6p1:_z>15.385917343390785</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.25779347700896</d6p1:_x>
+              <d6p1:_y>60.313062999631725</d6p1:_y>
+              <d6p1:_z>10.411923821249548</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>45.110107307565571</d6p1:_x>
+              <d6p1:_y>29.669828278373167</d6p1:_y>
+              <d6p1:_z>6.4812516380084144</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>11.184242513562944</d6p1:_x>
+              <d6p1:_y>17.074926599579527</d6p1:_y>
+              <d6p1:_z>18.329103870599269</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>B-R Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -1387,7 +1452,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.89560798856624</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -1403,13 +1468,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">69.368093966011017</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>70-100-70</d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Left</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
@@ -1439,68 +1504,68 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>25.054462134180412</d6p1:_x>
-              <d6p1:_y>10.83093271029766</d6p1:_y>
-              <d6p1:_z>95.377803392797475</d6p1:_z>
+              <d6p1:_x>33.599670508648707</d6p1:_x>
+              <d6p1:_y>18.162037568561129</d6p1:_y>
+              <d6p1:_z>2.1154934538927579</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.19689119170984457</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.159784055343721</d6p1:_x>
-              <d6p1:_y>45.098284553268471</d6p1:_y>
-              <d6p1:_z>5.9072183945629524</d6p1:_z>
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.5</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>35.760215156</d6p1:_x>
-              <d6p1:_y>71.5200860624</d6p1:_y>
-              <d6p1:_z>11.921132996000003</d6p1:_z>
+              <d6p1:_x>30.375566095831587</d6p1:_x>
+              <d6p1:_y>57.121933477557043</d6p1:_y>
+              <d6p1:_z>15.385917343390785</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.69170984455958551</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>53.430769811346693</d6p1:_x>
-              <d6p1:_y>76.517719496071166</d6p1:_y>
-              <d6p1:_z>106.5610438002934</d6p1:_z>
+              <d6p1:_x>49.25779347700896</d6p1:_x>
+              <d6p1:_y>60.313062999631725</d6p1:_y>
+              <d6p1:_z>10.411923821249548</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.8575129533678757</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>18.050955118399997</d6p1:_x>
-              <d6p1:_y>7.2204923815999988</d6p1:_y>
-              <d6p1:_z>95.0500446988</d6p1:_z>
+              <d6p1:_x>45.110107307565571</d6p1:_x>
+              <d6p1:_y>29.669828278373167</d6p1:_y>
+              <d6p1:_z>6.4812516380084144</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0.36010362694300518</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>71.4875923236411</d6p1:_x>
-              <d6p1:_y>89.938224041920847</d6p1:_y>
-              <d6p1:_z>13.593177538014892</d6p1:_z>
+              <d6p1:_x>11.184242513562944</d6p1:_x>
+              <d6p1:_y>17.074926599579527</d6p1:_y>
+              <d6p1:_z>18.329103870599269</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName>B-R Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -1644,16 +1709,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
@@ -1690,16 +1809,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -1758,16 +1931,70 @@
         <d3p1:_colors>
           <d3p1:ColorPoint>
             <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>2.7759311571521503</d6p1:_x>
+              <d6p1:_y>1.3677592273087136</d6p1:_y>
+              <d6p1:_z>9.5688891847089828</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
+              <d6p1:_x>29.894626049546357</d6p1:_x>
+              <d6p1:_y>16.247796556423538</d6p1:_y>
+              <d6p1:_z>2.1327826509303929</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.19689119170984457</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>49.438874061873769</d6p1:_x>
+              <d6p1:_y>39.487250719523459</d6p1:_y>
+              <d6p1:_z>11.319417733264459</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.5</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>27.415837198150783</d6p1:_x>
+              <d6p1:_y>50.739354936053566</d6p1:_y>
+              <d6p1:_z>18.704639436914093</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.69170984455958551</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>9.6785529259411689</d6p1:_x>
+              <d6p1:_y>14.275137060758844</d6p1:_y>
+              <d6p1:_z>17.284189926456811</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.8575129533678757</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>4.713031407010126</d6p1:_x>
+              <d6p1:_y>2.6258251246015645</d6p1:_y>
+              <d6p1:_z>19.327212731895422</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.36010362694300518</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>46.581121860984439</d6p1:_x>
+              <d6p1:_y>61.199762351084509</d6p1:_y>
+              <d6p1:_z>10.796494941915578</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -1934,7 +2161,7 @@
           <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT15.325S</TimeSpan>
+      <TimeSpan>PT41.32S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -1945,7 +2172,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT15.325S</TimeSpan>
+      <TimeSpan>PT41.32S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -1956,40 +2183,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT15.325S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>de44a05f-b92c-4839-aedd-8452d297995c</InstanceId>
-      <StartTime>PT1M11.993S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT25.995S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>3aeb56c3-4144-440e-acfb-399edd02a826</InstanceId>
-      <StartTime>PT1M11.993S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT25.995S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>1b5d0b2a-0fad-4ff0-9dc0-4ba905986f25</InstanceId>
-      <StartTime>PT1M11.993S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT25.995S</TimeSpan>
+      <TimeSpan>PT41.32S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -2015,7 +2209,7 @@
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>16788fcc-cc4c-4ca6-b15f-85a79d66d82a</InstanceId>
+      <InstanceId>5626c7b4-cca7-4b84-b51c-98a040eadaaf</InstanceId>
       <StartTime>PT2M8.464S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
@@ -2023,18 +2217,7 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT31.486S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>0380c578-895f-4d2a-83f4-005d58df8243</InstanceId>
-      <StartTime>PT2M8.464S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT31.486S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>4783a72c-4a4b-47bd-8a7d-38039626261f</InstanceId>
@@ -2059,7 +2242,7 @@
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>5626c7b4-cca7-4b84-b51c-98a040eadaaf</InstanceId>
+      <InstanceId>16788fcc-cc4c-4ca6-b15f-85a79d66d82a</InstanceId>
       <StartTime>PT2M8.464S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
@@ -2067,6 +2250,28 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT31.486S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>0380c578-895f-4d2a-83f4-005d58df8243</InstanceId>
+      <StartTime>PT2M8.464S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT31.486S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>2b9611e1-af8f-489a-9a5f-477c64420984</InstanceId>
+      <StartTime>PT2M39.95S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT33.425S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -2079,17 +2284,6 @@
       </TargetNodes>
       <TimeSpan>PT33.425S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>2b9611e1-af8f-489a-9a5f-477c64420984</InstanceId>
-      <StartTime>PT2M39.95S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT33.425S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>619033f5-e214-4e26-931d-260ab9b1a488</InstanceId>
