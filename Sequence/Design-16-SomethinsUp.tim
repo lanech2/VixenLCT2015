@@ -1716,7 +1716,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">49.586318120190384</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -1732,13 +1732,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">0</Y>
+            <Y i:type="a:double">49.850075131467996</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Up</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
