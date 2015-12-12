@@ -33,12 +33,21 @@
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_focus>0.21238938053097342</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
               <d6p1:_x>41.24</d6p1:_x>
               <d6p1:_y>21.26</d6p1:_y>
               <d6p1:_z>1.93</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.70725388601036265</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>13.633618006186605</d6p1:_x>
+              <d6p1:_y>6.6642277798667013</d6p1:_y>
+              <d6p1:_z>17.09074925952185</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -86,7 +95,7 @@
       <ModuleInstanceId>1a730fde-1f25-4b72-b730-d43e25b0bdfa</ModuleInstanceId>
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>

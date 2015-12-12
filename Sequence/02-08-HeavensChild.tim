@@ -6,7 +6,7 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>fa391c9c-9881-49d9-a4be-f7642af12bd2</ModuleInstanceId>
+      <ModuleInstanceId>0f7abcc5-c698-4ef9-a92f-65f24a9048c5</ModuleInstanceId>
       <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
@@ -27,18 +27,18 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>20.290053090566975</d6p1:_x>
-              <d6p1:_y>11.058967285316932</d6p1:_y>
-              <d6p1:_z>95.67293191956766</d6p1:_z>
+              <d6p1:_x>35.760215156</d6p1:_x>
+              <d6p1:_y>71.5200860624</d6p1:_y>
+              <d6p1:_z>11.921132996000003</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
-            <d3p1:_focus>0.17357512953367876</d3p1:_focus>
+            <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>1</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.242546873024615</d6p1:_x>
-              <d6p1:_y>21.265090037030578</d6p1:_y>
-              <d6p1:_z>1.9308603921033065</d6p1:_z>
+              <d6p1:_x>39.568034835600557</d6p1:_x>
+              <d6p1:_y>18.512316078193891</d6p1:_y>
+              <d6p1:_z>96.095508155087444</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -78,7 +78,7 @@
       </d2p1:LevelCurve>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>c2bedfe6-73ed-4546-83f9-ba926653e1a4</ModuleInstanceId>
+      <ModuleInstanceId>e2aad90a-868a-40b8-af63-b6e8cee0fe5e</ModuleInstanceId>
       <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
@@ -99,9 +99,9 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.240781781038628</d6p1:_x>
-              <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690522</d6p1:_z>
+              <d6p1:_x>39.568034835600557</d6p1:_x>
+              <d6p1:_y>18.512316078193891</d6p1:_y>
+              <d6p1:_z>96.095508155087444</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -143,25 +143,25 @@
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>fa391c9c-9881-49d9-a4be-f7642af12bd2</InstanceId>
+      <InstanceId>0f7abcc5-c698-4ef9-a92f-65f24a9048c5</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT1.3981233S</TimeSpan>
+      <TimeSpan>PT1.9360008S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>c2bedfe6-73ed-4546-83f9-ba926653e1a4</InstanceId>
-      <StartTime>PT1.3981233S</StartTime>
+      <InstanceId>e2aad90a-868a-40b8-af63-b6e8cee0fe5e</InstanceId>
+      <StartTime>PT1.9360008S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT2.8398767S</TimeSpan>
+      <TimeSpan>PT18.0875642S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
@@ -172,5 +172,5 @@
     <SourceName>02 Track 2.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <MarkCollections />
-  <TimePerPixel>PT0.011096S</TimePerPixel>
+  <TimePerPixel>PT0.0338627S</TimePerPixel>
 </TimedSequenceData>
